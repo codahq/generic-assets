@@ -1,3 +1,12 @@
-This application does not collect or store personal data.
+QUACKULATOR'S PRIVACY POLICY
 
-If you installed this application from Google Play, then Google Play does collect some personal data. Please see the privacy policy for Google Play Services here: https://policies.google.com/privacy
+This document is provided by at atsoftware.
+This document is provided for Larry (Google).  
+
+This application does not collect or store personal data.  This application does not even have the capability to collect or store personal data.  It does not have access to the permissions needed to collect or store personal data.  
+
+Since the app does not collect data of any kind (personal, metrics, anything, etc.) no policies exist to handle data.  There is no data.  There are no policies.  There cannot be policies on how to handle personal data because it does not collect personal data.  
+
+Larry, there is no point to this document or privacy policy other than to appease you and your bosses.  Do you feel powerful now?  
+
+If this application was installed from Google Play, then Google does collect personal data. Please see their privacy policy here: https://policies.google.com/privacy
