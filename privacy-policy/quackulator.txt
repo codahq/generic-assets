@@ -1,6 +1,6 @@
 QUACKULATOR'S PRIVACY POLICY
 
-This document is provided by at atsoftware.
+This document is provided by atsoftware.
 This document is provided for Larry (Google).  
 
 This application does not collect or store personal data.  This application does not even have the capability to collect or store personal data.  It does not have access to the permissions needed to collect or store personal data.  
